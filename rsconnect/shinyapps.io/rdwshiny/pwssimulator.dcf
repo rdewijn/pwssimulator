@@ -1,0 +1,11 @@
+name: pwssimulator
+title:
+username:
+account: rdwshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7386577
+bundleId: 6429975
+url: https://rdwshiny.shinyapps.io/pwssimulator/
+when: 1666449877.4169
+lastSyncTime: 1666449877.4169
